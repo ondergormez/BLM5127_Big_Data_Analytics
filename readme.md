@@ -1,5 +1,10 @@
 # BLM5127 Big Data Analytics
 
+## Contents
+
+- [ ] [Lectures](01-Lectures/readme.md)
+- [ ] [Homeworks](02-Homeworks/readme.md)
+
 ## Useful Readings
 
 - [ ] https://en.wikipedia.org/wiki/Apache_Hadoop
