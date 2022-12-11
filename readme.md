@@ -4,6 +4,7 @@
 
 - [ ] [Lectures](01-Lectures/readme.md)
 - [ ] [Homeworks](02-Homeworks/readme.md)
+- [ ] [Project](03-Project/readme.md)
 
 ## Useful Readings
 
